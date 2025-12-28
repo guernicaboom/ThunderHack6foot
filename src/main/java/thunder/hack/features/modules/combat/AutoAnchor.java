@@ -148,7 +148,7 @@ public final class AutoAnchor extends Module {
     private final Map<BlockPos, Long> renderPositions = new ConcurrentHashMap<>();
 
     public AutoAnchor() {
-        super("AutoAnchor", Category.COMBAT);
+        super("faggotanchor", Category.COMBAT);
     }
 
     @Override
