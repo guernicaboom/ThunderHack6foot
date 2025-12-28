@@ -26,7 +26,7 @@ import static thunder.hack.features.modules.client.ClientSettings.isRu;
 
 public class BlockESP extends Module {
     public BlockESP() {
-        super("BlockESP", Category.RENDER);
+        super("ESPbloques", Category.RENDER);
     }
 
     public final Setting<ItemSelectSetting> selectedBlocks = new Setting<>("SelectedBlocks", new ItemSelectSetting(new ArrayList<>()));
