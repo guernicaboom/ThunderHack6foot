@@ -197,7 +197,7 @@ public class AutoCrystal extends Module {
     public State currentState = State.NoTarget;
 
     public AutoCrystal() {
-        super("AutoCrystal", Category.COMBAT);
+        super("CrystalGoBRRRR", Category.COMBAT);
     }
 
     @Override
